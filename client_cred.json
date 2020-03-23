@@ -1,0 +1,16 @@
+{
+  "web": {
+    "client_id": "998532062645-i24ju17805loem6hcbvr50uovog7i23n.apps.googleusercontent.com",
+    "project_id": "ggdrivenodejs-271805",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_secret": "emOccFmPYsIRQqACyjXwXm5Q",
+    "redirect_uris": [
+      "http://localhost:3000/auth/callback"
+    ],
+    "javascript_origins": [
+      "http://localhost:3000"
+    ]
+  }
+}
